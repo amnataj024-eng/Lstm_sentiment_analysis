@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# trained model files can be large
+*.keras
+*.h5
